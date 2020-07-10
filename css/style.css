@@ -4,6 +4,10 @@
   margin: 0;
 }
 
+body{
+  margin: 20px 0px;
+}
+
 .container [class*="col-"] {
   border: 1px solid black;
 }
