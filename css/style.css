@@ -4,13 +4,22 @@
   margin: 0;
 }
 
-[class*="col-"] {
+.container [class*="col-"] {
   border: 1px solid black;
 }
 
 [class*="col-"] {
   background-color: pink;
   height: 100%;
+}
+
+[class*="col-"] .nested{
+  background-color: lightcoral;
+  border: 1px solid #fff;
+}
+
+.container .col-6{
+  padding: 5px;
 }
 
 .row{
