@@ -5,7 +5,7 @@
 }
 
 .container, [class*="col-"] {
-  border: 1px solid red;
+  border: 1px solid black;
 }
 
 [class*="col-"] {
