@@ -48,27 +48,24 @@
 }
 
 .col-7{
-  width: calc(100% / 12) * 7);
+  width: calc((100% / 12) * 7);
 }
 
-.col-7{
-  width: calc(100% / 12) * 7);
-}
 
 .col-8{
-  width: calc(100% / 12) * 8);
+  width: calc((100% / 12) * 8);
 }
 
 .col-9{
-  width: calc(100% / 12) * 9);
+  width: calc((100% / 12) * 9);
 }
 
 .col-10{
-  width: calc(100% / 12) * 10);
+  width: calc((100% / 12) * 10);
 }
 
 .col-11{
-  width: calc(100% / 12) * 11);
+  width: calc((100% / 12) * 11);
 }
 
 .col-12{
